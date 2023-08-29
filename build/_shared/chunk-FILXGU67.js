@@ -1,0 +1,1 @@
+import{a as i}from"/build/_shared/chunk-UJHLW63H.js";import{d as t,h as r,i as a}from"/build/_shared/chunk-BQCUINC5.js";a();var c=t(i()),s=({children:l,bgColor:e,className:o})=>r.createElement("div",{style:{...e&&{backgroundColor:e}},className:(0,c.default)("flex min-h-screen flex-col overflow-x-hidden",o)},l),n=s;export{n as a};

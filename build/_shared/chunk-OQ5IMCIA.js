@@ -1,0 +1,1 @@
+import{d as l,g as s,i as o}from"/build/_shared/chunk-BQCUINC5.js";o();var t=l(s(),1),n=(0,t.createContext)(null);n.displayName="OpenClosedContext";var a=(e=>(e[e.Open=0]="Open",e[e.Closed=1]="Closed",e))(a||{});function p(){return(0,t.useContext)(n)}function u({value:e,children:r}){return t.default.createElement(n.Provider,{value:e},r)}export{a,p as b,u as c};

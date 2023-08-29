@@ -1,0 +1,2 @@
+import{a as s}from"/build/_shared/chunk-6HFKSBJV.js";import{d as f,g as m,i as n}from"/build/_shared/chunk-BQCUINC5.js";n();var c=f(m());var g=t=>{(0,c.useEffect)(()=>{if(t){let{status:i,title:e,message:o}=t,u=o.length>100?5e3:2e3,r=`${e?`${e}
+`:""}${o}`,a={duration:u};i==="error"?s.error(r,a):s.success(r,a)}},[t])},p=g;export{p as a};

@@ -1,0 +1,1 @@
+import{i as t}from"/build/_shared/chunk-BQCUINC5.js";t();var r=o=>{let n=new URL(o);return n.protocol="https:",n.origin+n.pathname},c=r;export{c as a};

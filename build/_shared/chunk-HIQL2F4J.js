@@ -1,0 +1,1 @@
+import{p as e,y as r}from"/build/_shared/chunk-ZE7WC5SJ.js";import{i as t}from"/build/_shared/chunk-BQCUINC5.js";t();r();var s=()=>{let o=e()[0];if(!o)throw new Error("This hook should only be called in child routes to root");return o.data.isLoggedIn},h=s;export{h as a};

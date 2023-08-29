@@ -1,0 +1,1 @@
+import{i as n}from"/build/_shared/chunk-BQCUINC5.js";n();function o(e){return typeof window>"u"?null:e instanceof Node?e.ownerDocument:e!=null&&e.hasOwnProperty("current")&&e.current instanceof Node?e.current.ownerDocument:document}export{o as a};

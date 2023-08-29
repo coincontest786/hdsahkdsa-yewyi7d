@@ -1,0 +1,1 @@
+import{h as t,y as u}from"/build/_shared/chunk-ZE7WC5SJ.js";import{d as m,g as f,i as s}from"/build/_shared/chunk-BQCUINC5.js";s();u();var a=m(f()),P=e=>{let[r,c]=t(),o=r.get(e);(0,a.useEffect)(()=>{o&&(r.delete(e),c(r,{replace:!0}))},[e])},n=P;export{n as a};
